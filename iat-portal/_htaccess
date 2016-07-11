@@ -1,0 +1,4 @@
+AuthUserFile /etc/apache2/InnovationTeamPortalPasswords
+AuthName "Authorization Required"
+AuthType Basic
+require valid-user
