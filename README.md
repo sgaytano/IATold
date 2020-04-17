@@ -1,6 +1,6 @@
 # Employee Management System
 
-Feature:<br/>
+Feature:<br/><br/>
 Plot schedule<br/>
 Email notification<br/>
 User management<br/>
